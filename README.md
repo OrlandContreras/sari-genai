@@ -24,7 +24,7 @@ Es una asistente virtual, que está diseñada para proporcionar análisis y resp
 - **AWS CLI**: Se necesita la CLI de AWS para configurar las credenciales.
 - **AWS Bedrock**: Se necesita tener acceso a AWS Bedrock.
 - **AWS DynamoDB**: Se necesita tener acceso a AWS DynamoDB.
-- Se debe crear una tabla en DynamoDB con el nombre de `Conversations` y el esquema de la tabla con el siguiente esquema:
+- Se debe crear una tabla en DynamoDB con el nombre de `Conversations` con el siguiente esquema:
 
 | Atributo     | Tipo   |
 | ------------ | ------ |
